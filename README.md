@@ -1,8 +1,10 @@
-# <span><a href="https://omgtu.ru/"><img style="height: 1em;" src="./misc/logo.png"></a></span> Лабораторная 1-5
+# <span><a href="https://omgtu.ru/"><img style="height: 1em;" src="./misc/logo.png"></a></span> Программирование на C#
 
 ![OmSTU](misc/image.png)
 
-## List of exercises
+## Список упражнений
+
+1. [Базовое знакомство с ООП. Класс, метод, переопределение.](./Ex-27/Program.cs)
 
 <!-- # 1. Создай корневую папку и инициализируй git
 mkdir labs-csharp
